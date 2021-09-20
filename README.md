@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muktasaraph
+- 👋 Hi, I’m @HR-recruiter
 - 👀 I’m interested in job opportunities in HR, Talent Acquisition, IT recruitment.
 - 🌱 I’m currently learning more about HRMS, data analytics, data visualization.
 - 💞️ I’m looking to collaborate for various HR and recruitment projects.
